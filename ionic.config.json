@@ -1,0 +1,7 @@
+{
+  "name": "Be_Healthy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
